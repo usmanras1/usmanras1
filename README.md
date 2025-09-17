@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=You+choose+how+you+react+to+what+happens+to+you;The+happiness+of+your+life+depends+on+the+quality+of+your+thoughts;The+best+revenge+is+not+to+resemble+the+one+who+committed+the+injustice">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1700&height=150&duration=4000&lines=You+choose+how+you+react+to+what+happens+to+you;The+happiness+of+your+life+depends+on+the+quality+of+your+thoughts;The+best+revenge+is+not+to+resemble+the+one+who+committed+the+injustice">
 </a>
 </p>
 
